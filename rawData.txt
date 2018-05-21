@@ -221,7 +221,7 @@ spotify:user:spotify:playlist:37i9dQZF1DX2TRYkJECvfC    Deep House Relax
 spotify:user:spotify:playlist:37i9dQZF1DX32NsLKyzScr    Electro Workout
 spotify:user:spotify:playlist:37i9dQZF1DWTfrr8pte1rT    Emotron
 spotify:user:spotify:playlist:37i9dQZF1DX0pH2SQMRXnC    Hardstyle Hits
-spotify:user:spotify:playlist:37i9dQZF1DWSf2RDTDayIx    Happy Beats
+spotify:user:spotify:playlist:37i9dQZF1DWSf2RDTDayIx    Happy Summer Beats
 spotify:user:spotify:playlist:37i9dQZF1DX4eRPd9frC1m    Hype
 spotify:user:spotify:playlist:37i9dQZF1DX8CopunbDxgW    Metropolis
 spotify:user:spotify:playlist:37i9dQZF1DX2VvACCrgjrt    Nasty Bits
@@ -458,7 +458,7 @@ spotify:user:spotify:playlist:37i9dQZF1DX4WYpdgoIcn6    Chill Hits
 spotify:user:spotify:playlist:37i9dQZF1DX6xOPeSOGone    Soft Rock
 spotify:user:spotify:playlist:37i9dQZF1DWSiyIBdVQrkk    One Love
 spotify:user:spotify:playlist:37i9dQZF1DX4o1oenSJRJd    All Out 00s
-spotify:user:spotify:playlist:37i9dQZF1DXbTxeAdrVG2l    All-Out '90s
+spotify:user:spotify:playlist:37i9dQZF1DXbTxeAdrVG2l    All Out '90s
 spotify:user:spotify:playlist:37i9dQZF1DX4UtSsGT1Sbe    All Out 80s
 spotify:user:spotify:playlist:37i9dQZF1DWTJ7xPn4vNaz    All Out 70s
 spotify:user:spotify:playlist:37i9dQZF1DXaKIA8E7WcJj    All Out 60s
@@ -545,7 +545,7 @@ spotify:user:spotify:playlist:37i9dQZF1DX4OyEPaWHBdk    2017 Mnet Asian Music Aw
 spotify:user:spotify:playlist:37i9dQZF1DX5eq3AONkaho    Workday K-Pop
 spotify:user:spotify:playlist:37i9dQZF1DXdR77H5Z8MIM    K-Pop Weekend!
 spotify:user:spotify:playlist:37i9dQZF1DX8eqay1FtdMm    K-Power Vocals
-spotify:user:spotify:playlist:37i9dQZF1DWXaehqeJpkro    Noraebang K-Pop
+spotify:user:spotify:playlist:37i9dQZF1DWXaehqeJpkro    Sing Along K-Pop
 spotify:user:spotify:playlist:37i9dQZF1DWTTHy0vndijk    Bubblegum K-Pop
 spotify:user:spotify:playlist:37i9dQZF1DWUXxc8Mc6MmJ    K-Crazy Michioso Tunes
 spotify:user:spotify:playlist:37i9dQZF1DX1lU51fgoMhF    Spring K-Pop
@@ -1182,7 +1182,7 @@ spotify:user:spotify:playlist:37i9dQZF1DXdTCdwCKzXwo    Early Alternative
 spotify:user:spotify:playlist:37i9dQZF1DX09NvEVpeM77    Born in the USA
 spotify:user:spotify:playlist:37i9dQZF1DWZMxqlsEB7BT    Chips and Salsa
 spotify:user:spotify:playlist:37i9dQZF1DX1MUPbVKMgJE    Disco Forever
-spotify:user:spotify:playlist:37i9dQZF1DX8XxBtyUnC7B    French Holiday
+spotify:user:spotify:playlist:37i9dQZF1DX8XxBtyUnC7B    Souvenirs
 spotify:user:spotify:playlist:37i9dQZF1DWZgauS5j6pMv    Funk Evolution
 spotify:user:spotify:playlist:37i9dQZF1DX23YPJntYMnh    Funk Rock
 spotify:user:spotify:playlist:37i9dQZF1DX4pUKG1kS0Ac    Guilty Pleasures
